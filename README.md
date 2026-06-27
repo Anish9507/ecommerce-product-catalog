@@ -4,6 +4,10 @@
 
 This project was developed as part of my Web Development Internship (Task 5). It is a React-based E-Commerce Product Catalog built using a modular architecture with client-side routing. The application provides a responsive shopping experience where users can browse products, view product details, and manage their shopping cart.
 
+## Live Demo
+
+**Vercel:** https://ecommerce-product-catalog-chi.vercel.app/
+
 ## Features
 
 * Responsive and modern user interface
@@ -58,10 +62,6 @@ npm run dev
 ```bash
 npm run build
 ```
-
-## Live Demo
-
-**Vercel:** Add your deployed project URL here.
 
 ## Author
 
